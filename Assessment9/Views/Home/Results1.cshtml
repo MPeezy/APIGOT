@@ -1,0 +1,17 @@
+﻿@model Character []
+
+
+
+@foreach (Character c in Model)
+    {
+        <p>------------------</p>
+        <p>Name: @c.name</p>
+        <p>Gender: @c.gender</p>
+      
+
+        foreach (string pb in c.playedBy)
+                {
+                  <p>Played By: @pb</p>
+                }
+
+     }

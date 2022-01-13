@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9rW1xSVE5Eo69+rKwp7sEzEsMCoivVYveNgQ+1TWYYPFqCYG7CqsADR4HdHLQQYko2rcssBKKiswC7JbCX6tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MPatton5\\source\\repos\\Assessment9\\Assessment9\\Assessment9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MPatton5\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
